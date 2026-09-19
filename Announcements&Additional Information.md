@@ -30,7 +30,7 @@
 
 5. During the LAN event, the organizer will provide accommodation for participating teams.Although no dedicated practice rooms will be available,the accommodation we provide will be equipped with training PC.
 
-6. All tournament‑related communications will be sent exclusively to the email address provided on the registration form、
+6. All tournament‑related communications will be sent exclusively to the email address provided on the registration form.
 
 7. If a team fails to complete payment within 48 hours of submitting its registration, its entry will be given to the next team in the waiting list, ranked by registration time.
 
